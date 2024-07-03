@@ -14,7 +14,7 @@ Aspiring Front-end Developer with basic knowledge in HTML and CSS. Actively lear
 ## Education
 
 - High School
-- Higher School
+- Technical School
 
 ## Skills
 
